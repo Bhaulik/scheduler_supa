@@ -1,0 +1,6 @@
+APScheduler>=3.10.1
+supabase>=1.0.3
+pytz>=2023.3
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+typing-extensions>=4.5.0
